@@ -1,0 +1,118 @@
+# llms.txt for officebanao.com 
+
+# Owner Information
+Owner: officebanao
+Contact: inquiry@officebanao.com
+Website: https://officebanao.com/
+
+# Headquarters
+Headquarters: Gurugram, Bengaluru, India
+
+# Sitemap Indexes
+Sitemap: https://officebanao.com/sitemap_index.xml
+Sitemap: https://officebanao.com/post-sitemap.xml
+Sitemap: https://officebanao.com/page-sitemap.xml
+Sitemap: https://officebanao.com/category-sitemap.xml
+Sitemap: https://officebanao.com/web-story-sitemap.xml
+
+# # Brand Overview
+Overview: Officebanao is India’s leading office interior design and build company offering customized, turnkey workspace solutions for startups, enterprises, and coworking spaces. We combine aesthetics, functionality, and technology to transform commercial spaces.
+
+
+## City Service Pages
+- [Office Interior Designer in Gurgaon - Officebanao](https://officebanao.com/office-interior-designer-in-gurgaon/) -  Turnkey office interior solutions in Gurgaon for startups, enterprises, and coworking spaces.
+- [Office Interior Designer in Delhi - Officebanao](https://officebanao.com/office-interior-designer-in-delhi/) - Modern office interior design in Delhi.
+- [Office Interior Designer in Mumbai - Officebanao](https://officebanao.com/office-interior-designer-in-mumbai/) - Startup-friendly office design in Mumbai, smart and scalable.
+- [Office Interior Designer in Bangalore - Officebanao](https://officebanao.com/office-interior-designer-in-bangalore/) - Complete office interior solutions in Bangalore for modern, functional workspaces.
+- [Office Interior Designer in Noida - Officebanao](https://officebanao.com/office-interior-designer-in-noida/) - Office interiors in Noida tailored for productivity and aesthetics.
+- [Office Interior Designer in Pune - Officebanao](https://officebanao.com/office-interior-designer-in-pune/) - Custom office interiors in Pune designed for functionality, growth, and style.
+- [Office Interior Designer in Hyderabad - Officebanao](https://officebanao.com/office-interior-designer-in-hyderabad/) - Hyderabad’s expert office designers for modern, productive workspaces.
+- [Office Interior Designer in Ahmedabad - Officebanao](https://officebanao.com/office-interior-designer-in-ahmedabad/) - Office interiors in Ahmedabad are designed for efficiency, style, and growth.
+- [Office Interior Designer in Kolkata - Officebanao](https://officebanao.com/office-interior-designer-in-kolkata/) - Turnkey office interior services in Kolkata for growth-driven businesses.
+- [Office Interior Designer in Jaipur - Officebanao](https://officebanao.com/office-interior-designer-in-jaipur/) - Corporate office interiors in Jaipur that inspire productivity and reflect brand identity.
+- [Office Interior Designer in Chennai - Officebanao](https://officebanao.com/office-interior-designer-in-chennai/) - Turnkey office interiors in Chennai that blend design with business intent.
+- [Office Interior Designer in Coimbatore - Officebanao](https://officebanao.com/office-interior-designer-in-coimbatore/) - Smart workspace design solutions in Coimbatore.
+- [Office Interior Designer in Chandigarh - Officebanao](https://officebanao.com/office-interior-designer-in-chandigarh/) - Functional, stylish office design in Chandigarh.
+- [Office Interior Designer in Lucknow - Officebanao](https://officebanao.com/office-interior-designer-in-lucknow/) - Elegant and efficient office interiors in Lucknow.
+- [Office Interior Designer in Bhopal - Officebanao](https://officebanao.com/office-interior-designer-in-bhopal/) - Future-ready office interiors in Bhopal for modern businesses.
+- [Office Interior Designer in Kochi - Officebanao](https://officebanao.com/office-interior-designer-in-kochi/) - Smart office spaces in Kochi built to inspire.
+
+## Project Portfolio
+- [Projects page](https://officebanao.com/projects/) - Curated showcase of completed office interior projects across India
+- [Project List](https://officebanao.com/project-list-details/) -  End-to-end workspace solutions for businesses across India—designed, delivered, and detailed
+
+
+## Featured Blog Posts
+- [Office Pantry Design Ideas](https://officebanao.com/office-pantry-design-ideas/) – Create stylish and functional office pantries.
+- [Coworking Space Design Ideas](https://officebanao.com/7-coworking-space-design-ideas-to-inspire-your-space/) – Design trends for coworking spaces.
+- [Modern Finance Office Design](https://officebanao.com/modern-finance-office-design-ideas-to-inspire-productivity/) – Office design tips for finance teams.
+- [3D Wall Design Ideas](https://officebanao.com/10-creative-3d-wall-design-ideas-to-transform-your-office-space/) – Transform your space with textured walls.
+- [Travel Office Interior Ideas](https://officebanao.com/10-ideas-to-create-a-stunning-travel-office-interior-design-in-2025/) – Themed interiors for travel brands.
+- [Advertising Agency Office Design Trends](https://officebanao.com/advertising-agency-office-design-trends/) – Existing Trends in Advertising Agency Interior.
+- [Eco Friendly Office Design Ideas](https://officebanao.com/best-ideas-for-eco-friendly-office-interior-design/) – Sustainable interior design tips for creating green, energy-efficient, and wellness-driven workspaces.
+- [Open Plan Office Layout](https://officebanao.com/open-office-layout-pros-cons-and-productivity-tips/) –  Insights into the pros, cons, and productivity strategies for effective open office layouts.
+- [Advocate Office Interior Design Ideas](https://officebanao.com/15-best-advocate-office-design-ideas/) –  Inspiration for classic advocate office interiors with wood tones.
+- [Startup Office Interior Design](https://officebanao.com/10-innovative-office-design-ideas-for-startups/) – Optimized interiors for small to mid-sized startups—focus on layout, collaboration zones, and productivity.
+- [CA Office Interior Design Ideas](https://officebanao.com/how-to-design-an-effective-interior-for-a-cas-office/) – Design tips for CA offices that enhance productivity, ensure privacy, and maintain a professional appeal.
+- [Call Center Office Design](https://officebanao.com/how-to-optimise-call-center-office-design-for-maximum-productivity/) – Call center design ideas that prioritize sound control, ergonomic seating, and efficient floor planning.
+- [Modern Office Reception Design Ideas](https://officebanao.com/stunning-ideas-to-create-remarkable-office-reception-design/) – Modern Office Reception Design Ideas for a Striking First Impression.
+[Director Cabin Interior Design](https://officebanao.com/10-design-trends-changing-the-face-of-director-cabins/) – Director Cabin Design Ideas for High-End Corporate Offices.
+[Modern Office False Ceiling Design Ideas](https://officebanao.com/guide-to-stunning-office-ceiling-designs/) – Stylish Ceiling Ideas to Transform Modern Office Interiors.
+[Real Estate Office Interior Design](https://officebanao.com/trends-in-real-estate-office-interior-design/) – Emerging Real Estate Office Interior Trends.
+[Office Colour Combination Ideas](https://officebanao.com/best-office-colour-combination-to-improve-your-space/) – Inspiring Office Colour Combos for a Vibrant Workspace.
+[3d Office Interior Design Ideas](https://officebanao.com/exploring-the-impact-of-3d-office-design/) – Transform Your Office with Innovative 3D Design.
+[Office Workstation Interior Design](https://officebanao.com/explore-innovative-office-workstation-layouts-designed-to-boost-productivity/) – Explore Innovative Office Workstation Layouts
+[Office Conference Room Interior Design](https://officebanao.com/5-top-interior-designs-for-conference-rooms/) – Innovative Conference Room Design Ideas for Modern Offices
+[Creative Office Room Design Ideas](https://officebanao.com/10-office-room-design-ideas-for-modern-office/) – Innovative Office Room Designs for Today’s Work Culture
+---
+
+##  Categories & Design Ideas
+- [Office Interior Designs](https://officebanao.com/office-interior-designs/)
+- [Corporate Office Interior Designs](https://officebanao.com/corporate-office-interior-designs/)
+- [Office Wall Design Ideas](https://officebanao.com/office-wall-designs/)
+- [Modern Office Designs](https://officebanao.com/modern-office-designs/)
+- [Office Cabin Interior Design](https://officebanao.com/office-cabin-designs/)
+- [Office Ceiling Designs](https://officebanao.com/office-ceiling-designs/)
+- [Office Conference Room Design](https://officebanao.com/conference-room-designs/)
+
+---
+
+## Web Stories
+- https://officebanao.com/web-stories/coworking-space-design-trends-you-need-to-know/
+- https://officebanao.com/web-stories/affordable-interior-design-ideas-for-small-offices/
+- https://officebanao.com/web-stories/things-to-keep-in-mind-to-create-office-interior/
+
+
+---
+
+## Key Information Pages
+- [About Us](https://officebanao.com/about-us/)
+- [Contact Us](https://officebanao.com/contact-us/)
+- [Privacy Policy](https://officebanao.com/privacy-policy/)
+- [Career](https://officebanao.com/career/)
+
+# Operational Reach
+Presence: Pan India
+ServiceCities: Gurugram, Delhi, Noida, Mumbai, Bengaluru, Hyderabad, Pune, Chennai, Kolkata, Ahmedabad, Jaipur, Coimbatore, Lucknow, Indore, Bhopal, Chandigarh, Kochi
+
+
+# LLM-Metadata
+Brand: Officebanao
+Type: Office Interior Design Company
+Country: India
+Founded: 2021
+Headquarters: Gurugram, Bengaluru
+Services: Turnkey office interiors, Design & Build, Custom Workspaces
+Audience: Startups, Enterprises, Coworking Spaces
+
+# Services Offered
+- Turnkey Interior Design
+- Design & Build
+- Office Furniture Solutions
+- Office Renovation
+- Interior Design Services
+
+# Brand Aliases
+AlsoKnownAs: officebanao, office banao, officebanao.com, officebanao interiors
+
+# End of llms.txt

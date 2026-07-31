@@ -1,8 +1,26 @@
 aid: officebanao
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/officebanao.png
 name: Officebanao
-description: Officebanao is a company surfaced as a portfolio company of lightspeed-venture-partners and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Officebanao is a technology-enabled office interior design and build company headquartered in
+  Gurugram and Bengaluru, India, and founded in 2021. It delivers turnkey commercial workspace
+  solutions — space planning, interior design, furniture procurement, office renovation, and
+  end-to-end project execution — for startups, enterprises, and coworking spaces across 40+ Indian
+  cities. Its "Tech plus Touch" delivery model pairs real-time 3D visualization and online progress
+  tracking with an in-house team of designers and project managers. Backed by Lightspeed Venture
+  Partners. Officebanao publishes a public marketing website and an llms.txt discovery file but
+  exposes no public developer API, SDK, or developer platform surface as of this profiling.
 url: https://raw.githubusercontent.com/api-evangelist/officebanao/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,12 +30,41 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Interior Design
+- Office Design
+- Design and Build
+- Workspace
+- Construction
+- Real Estate
+- PropTech
+- India
 apis: []
+common:
+- type: DomainSecurity
+  url: security/officebanao-domain-security.yml
+- type: Website
+  url: https://officebanao.com/
+- type: About
+  url: https://officebanao.com/about-us/
+- type: Support
+  url: https://officebanao.com/contact-us/
+- type: PrivacyPolicy
+  url: https://officebanao.com/privacy-policy/
+- type: LLMsTxt
+  url: llms/officebanao-llms.txt
+- type: LLMsTxt
+  name: officebanao llms.txt (live)
+  url: https://officebanao.com/llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
